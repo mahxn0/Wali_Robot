@@ -1,0 +1,5 @@
+message PresetReset
+{
+required int32 id=1;
+required int32 data=2;
+}

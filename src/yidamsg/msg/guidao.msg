@@ -1,0 +1,9 @@
+string rec_method
+string rec_name
+int32 dec_hat
+int32 dec_glove
+int32 dec_shoe
+int32 rail
+int32 safety_belt
+string alam
+string action

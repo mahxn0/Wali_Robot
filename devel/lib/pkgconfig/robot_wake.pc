@@ -1,0 +1,8 @@
+prefix=/home/mahxn0/catkin_ws/devel
+
+Name: robot_wake
+Description: Description of robot_wake
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/mahxn0/catkin_ws/devel/lib 
+Requires: 

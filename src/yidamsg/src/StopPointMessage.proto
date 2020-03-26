@@ -1,0 +1,5 @@
+message StopPoint
+{
+required int32 WatchPosId=1;
+required int32 status=2;
+}

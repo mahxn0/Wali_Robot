@@ -1,0 +1,6 @@
+message CarStatus
+{
+required string name=1;
+repeated float left_data=2;
+repeated float right_data=3;
+}

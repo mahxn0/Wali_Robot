@@ -1,0 +1,42 @@
+<launch>
+    <node pkg="webcam" type="webcam.py" name="webcam_node1" output="screen">
+      <param name="topic_name" value="/camera1/compressed" />
+      <param name="camera_id" type="int" value="1" />
+      <param name="image_width" type= "int" value="640" />
+      <param name="image_height" type= "int" value="480" />
+      <param name="frequency" type="int" value="5" />
+    </node >
+
+    <node pkg="webcam" type="webcam.py" name="webcam_node2" output="screen">
+      <param name="topic_name" value="/camera2/compressed" />
+      <param name="camera_id" type="int" value="2" />
+      <param name="image_width" type= "int" value="640" />
+      <param name="image_height" type= "int" value="480" />
+      <param name="frequency" type="int" value="5" />
+    </node >
+
+    <node pkg="webcam" type="webcam.py" name="webcam_node3" output="screen">
+      <param name="topic_name" value="/camera3/compressed" />
+      <param name="camera_id" type="int" value="3" />
+      <param name="image_width" type= "int" value="640" />
+      <param name="image_height" type= "int" value="480" />
+      <param name="frequency" type="int" value="5" />
+    </node >
+
+    <node pkg="webcam" type="webcam.py" name="webcam_node4" output="screen">
+      <param name="topic_name" value="/camera4/compressed" />
+      <param name="camera_id" type="int" value="4" />
+      <param name="image_width" type= "int" value="640" />
+      <param name="image_height" type= "int" value="480" />
+      <param name="frequency" type="int" value="5" />
+    </node >
+
+    <node pkg="webcam" type="webcam.py" name="webcam_node5" output="screen">
+      <param name="topic_name" value="/camera5/compressed" />
+      <param name="camera_id" type="int" value="5" />
+      <param name="image_width" type= "int" value="640" />
+      <param name="image_height" type= "int" value="480" />
+      <param name="frequency" type="int" value="5" />
+    </node >
+
+</launch>

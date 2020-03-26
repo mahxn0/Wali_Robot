@@ -1,0 +1,21 @@
+int32 id
+float64 x
+float64 y
+float64 z
+float32 anglex
+float32 angley
+float32 anglez
+float32 prob
+float32 x1
+float32 y1
+float32 x2
+float32 y2
+float32 x3
+float32 y3
+float32 x4
+float32 y4
+int32 road_line_status
+float32 robot_road_angle
+float32 distance
+float32 turn_angle
+

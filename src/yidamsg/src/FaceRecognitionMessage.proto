@@ -1,0 +1,6 @@
+message FaceRecognition
+{
+required bool flag=1;
+optional string type=2;
+required bytes data=3;
+}

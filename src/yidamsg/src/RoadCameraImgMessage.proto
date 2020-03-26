@@ -1,0 +1,5 @@
+message RoadCameraImg
+{
+required int32 number=1;
+required bytes data=2;
+}

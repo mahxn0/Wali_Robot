@@ -1,0 +1,6 @@
+string text
+int32 file_type
+int32 audio_file_id
+---
+string message
+int8 status_code

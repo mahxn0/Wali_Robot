@@ -1,0 +1,4 @@
+message FaceRecStartEnd
+{
+required int32 flag=1;
+}

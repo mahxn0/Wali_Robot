@@ -1,0 +1,2 @@
+int32 task_history_id
+uint8 task_status

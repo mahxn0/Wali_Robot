@@ -1,0 +1,21 @@
+message TaskStatus
+{
+required int32 taskid=1;
+required float start_x=2;
+required float start_y=3;
+required float start_z=4;
+required float end_x=5;
+required float end_y=6;
+required float end_z=7;
+required float alldis=8;
+required float dis=9;
+required float speed=10;
+required float dis_left=11;
+required float dis_right=12;
+required float next_width=13;
+required float road_width=14;
+required int32 control_flag=15;
+required string log=16;
+required int32 direction=17;
+required int32 align=18;
+}

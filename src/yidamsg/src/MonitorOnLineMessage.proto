@@ -1,0 +1,4 @@
+message MonitorOnLine
+{
+required string data=1;
+}

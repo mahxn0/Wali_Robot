@@ -1,0 +1,8 @@
+message CameraCtrl
+{
+required string cameraType=1;
+required string command=2;
+required int32 number=3;
+required string scaleType=4;
+required int32 scaleStep=5;
+}

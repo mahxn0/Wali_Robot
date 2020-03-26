@@ -1,0 +1,4 @@
+int16 flag
+string name
+---
+bool success

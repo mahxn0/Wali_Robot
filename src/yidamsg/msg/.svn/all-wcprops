@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Robot/!svn/ver/4/trunk/yida_robot/src/yidamsg/msg
+END
+offset_side.msg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/Robot/!svn/ver/2/trunk/yida_robot/src/yidamsg/msg/offset_side.msg
+END
+task_list.msg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Robot/!svn/ver/4/trunk/yida_robot/src/yidamsg/msg/task_list.msg
+END
+yidaPose.msg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/Robot/!svn/ver/4/trunk/yida_robot/src/yidamsg/msg/yidaPose.msg
+END
+Num.msg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/Robot/!svn/ver/2/trunk/yida_robot/src/yidamsg/msg/Num.msg
+END
+motor_control.msg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Robot/!svn/ver/4/trunk/yida_robot/src/yidamsg/msg/motor_control.msg
+END
+offset_middle.msg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Robot/!svn/ver/2/trunk/yida_robot/src/yidamsg/msg/offset_middle.msg
+END
+fuzzy_task.msg
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/Robot/!svn/ver/4/trunk/yida_robot/src/yidamsg/msg/fuzzy_task.msg
+END

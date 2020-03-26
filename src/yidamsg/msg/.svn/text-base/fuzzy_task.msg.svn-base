@@ -1,0 +1,8 @@
+Header header
+int32 control_flag
+float32 dis_left
+float32 dis_right
+int32 included_angle
+geometry_msgs/Point[2] dis_cur_pos
+float32 cur_speed
+float32 allow_width

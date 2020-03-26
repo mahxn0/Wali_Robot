@@ -1,0 +1,4 @@
+message TaskCheckFinished
+{
+required int32 flag=1;
+}

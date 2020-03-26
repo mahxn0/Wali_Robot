@@ -1,0 +1,4 @@
+message RobotCtrlMode
+{
+required int32 data=1;
+}

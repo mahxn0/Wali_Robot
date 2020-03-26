@@ -1,0 +1,6 @@
+message YunTaiCtrl
+{
+required string direction=1;
+required int32 number=2;
+required int32 step=3;
+}

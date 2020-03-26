@@ -1,0 +1,5 @@
+message RobotSpeed
+{
+required float linear_x=1;
+required float angular_z=2;
+}

@@ -1,0 +1,7 @@
+message Preset
+{
+required int32 id=1;
+required int32 horizontal=2;
+required int32 vertical=3;
+required int32 focus=4;
+}

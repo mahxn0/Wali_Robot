@@ -1,0 +1,9 @@
+float32 ax
+float32 ay
+float32 az
+float32 wx
+float32 wy
+float32 wz
+float32 anglex
+float32 angley
+float32 anglez

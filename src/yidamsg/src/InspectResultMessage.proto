@@ -1,0 +1,5 @@
+message InspectResult
+{
+required bytes image=1;
+required string description=2;
+}

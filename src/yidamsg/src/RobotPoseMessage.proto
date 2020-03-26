@@ -1,0 +1,23 @@
+message RobotPose
+{
+required int32 id=1;
+required float x=2;
+required float y=3;
+required float z=4;
+required float anglex=5;
+required float angley=6;
+required float anglez=7;
+required float prob=8;
+required float x1=9;
+required float y1=10;
+required float x2=11;
+required float y2=12;
+required float x3=13;
+required float y3=14;
+required float x4=15;
+required float y4=16;
+required int32 road_line_status=17;
+required float robot_road_angle=18;
+required float distance=19;
+required float turn_angle=20;
+}

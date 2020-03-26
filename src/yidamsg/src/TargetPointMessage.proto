@@ -1,0 +1,5 @@
+message TargetPoint
+{
+required int32 pointId=1;
+required int32 status=2;
+}

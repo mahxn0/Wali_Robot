@@ -1,0 +1,13 @@
+message DetectResult
+{
+required int32 camid=1;
+required int32 picid=2;
+required float x=3;
+required float y=4;
+required float z=5;
+required bytes equipimage=6;
+required bytes nameplates=7;
+required string equipid=8;
+required string result=9;
+required bool success=10;
+}

@@ -1,0 +1,5 @@
+message ReqRes
+{
+required string reqType=1;
+required string data=2;
+}

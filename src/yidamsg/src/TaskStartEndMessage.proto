@@ -1,0 +1,4 @@
+message TaskStartEnd
+{
+required int32 flag=1;
+}

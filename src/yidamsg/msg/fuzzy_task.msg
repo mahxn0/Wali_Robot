@@ -1,0 +1,12 @@
+int32 control_flag
+float32 dis_left
+float32 dis_right
+float32 included_angle
+float32 turn_angle
+float32 dis_cur_pos
+float32 cur_speed
+float32 obstacle_pos
+float32 allow_width
+float32 next_width
+string msg_type
+int32 align

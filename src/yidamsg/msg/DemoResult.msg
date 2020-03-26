@@ -1,0 +1,12 @@
+int32 camid
+int32 picid
+float32 x
+float32 y
+float32 z
+uint8[] surfaceimage
+uint8[] equipimage
+uint8[] nameplates
+uint8[] equipid
+string result
+time timestamp
+bool success

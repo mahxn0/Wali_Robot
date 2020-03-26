@@ -1,0 +1,4 @@
+message RobotTemperature
+{
+required float data=1;
+}

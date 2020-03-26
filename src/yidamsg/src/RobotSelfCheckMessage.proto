@@ -1,0 +1,4 @@
+message RobotSelfCheck
+{
+required int32 data=1;
+}

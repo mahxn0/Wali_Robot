@@ -1,0 +1,8 @@
+prefix=/home/mahxn0/catkin_ws/install
+
+Name: yidamsg
+Description: Description of yidamsg
+Version: 0.0.1
+Cflags: -I/home/mahxn0/catkin_ws/install/include
+Libs: -L/home/mahxn0/catkin_ws/install/lib 
+Requires: 

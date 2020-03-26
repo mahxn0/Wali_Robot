@@ -1,0 +1,5 @@
+cd build
+make -j8
+cd ..
+./bin/capture 192.168.1.63 camera1 talker1
+
