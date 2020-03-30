@@ -19,6 +19,7 @@ deploy文件夹:
     detectandrecog_retinaface_yolov3.py
 - 行人检测人脸识别,reid跟踪逻辑代码:detectandrecog_v3.py
     
+- 模型下载地址:[下载链接](https://pan.baidu.com/s/1SHim2jMcv34cBYuM3_n4WA)  提取码: rukn
 
 
 
