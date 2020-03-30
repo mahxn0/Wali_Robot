@@ -1,8 +1,8 @@
 ## 代码说明:
 ### 依赖环境安装
 - python3.5,python3.6(其它python版本未测试)
-- 安装siammask(https://github.com/foolwood/SiamMask)相关环境
-- 安装insightface(https://github.com/deepinsight/insightface)相关环境
+- [安装siammask](https://github.com/foolwood/SiamMask)
+- [安装insightface](https://github.com/deepinsight/insightface)
 
 ### 代码目录说明
 - Wali_Detect为行人检测模型和代码
